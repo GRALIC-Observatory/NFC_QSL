@@ -1,7 +1,7 @@
 不对前端UI的数据格式作任何要求，仅约定json的Key，以保证NFC_QSL卡的兼容性
 
 |Key      |含义                    |数据类型    |建议值    |备注|
-|:------  |:-------                |:-----------|:---------||
+|:------|:-------|:-----------|:---------||
 |myradio  |My Call Sign/寄卡方呼号  |str     |||
 |toradio  |To Call Sign/收卡方呼号  |str      |||
 |cfm      |Confirm/卡片类型         |str      |'Our QSO'or'Your SWL Report'||
