@@ -1,6 +1,8 @@
 # NFC_QSL
 提供多平台的NFC QSL卡读写操作界面。
+
 提供json规范
+
 默认以ndef形式对NFC卡片进行读取、写入
 
 # json数据格式
