@@ -1,9 +1,7 @@
 # NFC_QSL
 提供多平台的NFC QSL卡读写操作界面。
-约定json格式，以ndef形式对NFC卡片进行读取、写入。
-根据约定的json格式，可自行开发合适的操作界面。
-甚至不依赖于手机，通过串口使用PN532等模块实现相应功能。
-
+提供json规范
+默认以ndef形式对NFC卡片进行读取、写入
 
 # json数据格式
 见“json_rule.json”文档
@@ -15,3 +13,13 @@ NTAG215
 
 ## 开发中
 NTAG216
+
+# 平台支持
+
+## 已支持
+Android APP
+Android web NFC
+
+## 开发中
+web PN532
+
