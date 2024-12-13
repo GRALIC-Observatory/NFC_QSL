@@ -6,7 +6,7 @@
 默认以ndef形式对NFC卡片进行读取、写入
 
 # json数据格式
-见“json_rule.json”文档
+见“json_key_rule.md”文档
 
 # 卡片支持
 
